@@ -1,0 +1,6 @@
+[package]
+name = "rustera"
+version = "0.1.0-190612"
+authors = ["Miswanting <miswanting@users.noreply.github.com>"]
+edition = "2018"
+[dependencies]
